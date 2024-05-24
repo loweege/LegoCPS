@@ -1,2 +1,10 @@
 # LegoCPS
-Autonomous Lego robot designed for warehouse logistics, specifically targeting improvements in service-level agreements within a fruit-handling warehouse
+**Autonomous Lego robot** designed for warehouse logistics, specifically targeting improvements in service-level agreements within a fruit-handling warehouse
+
+<p align="center">
+    <img width="500" alt="lego_robot" src="https://github.com/loweege/LegoCPS/assets/165174891/a5bd03bb-a4b2-4f0d-bd40-d6c05fade879">
+</p>
+
+## Abstract
+This study presents the development and simulation of an autonomous Lego robot designed for warehouse logistics, specifically targeting improvements in service-level agreements within a fruit-handling warehouse. Utilizing the Lego Mindstorms Education EV3 platform and Java-based agent-oriented programming, the study assesses the robot’s capabilities through simulations in Carla, an open-source autonomous driving simulation. The robot successfully navigates various scenarios, including obstacle avoidance, collision detection, crate transfer, and battery recharge, showcasing the efficacy of PID controllers, collision avoidance algorithms, and battery management logic in handling complex warehouse environments. A collaborative experiment with another robotics team underscores the robot’s adaptability and collision avoidance capabilities in shared spaces. The study emphasizes the need for ongoing technological evolution and suggests potential hardware and software upgrades for real-world applications. Hardware enhancements include sturdier motors, advanced sensors, and improved power management, while software improvements involve integrating machine learning for better adaptability and real-time analytics for more informed decision-making. The research provides practical insights into robotics and cyber-physical systems, offering a valuable learning experience with Lego Mindstorms and the SPADE multi-agent platform. The findings lay the groundwork for developing advanced and adaptive autonomous solutions to address the challenges in contemporary warehouse logistics.
+Index Terms—Autonomous robots, Lego robots, Warehouse logistics, Cyber-Physical Systems (CPS), Multi-agent systems, Collision avoidance, Simulation, PID controller, Machine learning, Robotics Education
